@@ -68,7 +68,7 @@ export default function HomePage() {
               <div className="space-y-4">
                 <p className="text-lg text-muted-foreground leading-relaxed">
                   {
-                    "김교수는 후성유전학 분야의 선도적인 연구자로, 20년 이상의 연구 경력을 보유하고 있습니다. 하버드 의과대학에서 박사후 과정을 거쳤으며, 다수의 국제 학술지에 논문을 게재했습니다."
+                    "mirang kim"
                   }
                 </p>
                 <p className="text-lg text-muted-foreground leading-relaxed">
