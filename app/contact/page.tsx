@@ -31,7 +31,7 @@ export default function ContactPage() {
                       >
                         jihoon.kim@university.edu
                       </a>
-                      <p className="text-sm text-muted-foreground mt-1">{"(김지훈 교수)"}</p>
+                      <p className="text-sm text-muted-foreground mt-1">{"(김미랑 교수)"}</p>
                     </div>
                   </div>
 
@@ -51,7 +51,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-medium mb-1">Lab</h3>
-                      <p className="text-muted-foreground">{"생명과학관 5층 523호"}</p>
+                      <p className="text-muted-foreground">{"한국생명공학연구원"}</p>
                     </div>
                   </div>
                 </div>
@@ -69,9 +69,9 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-medium mb-2">Address</h3>
                     <p className="text-muted-foreground leading-relaxed">
-                      {"서울특별시 강남구 대학로 123"}
+                      {"대전광역시 유성구"}
                       <br />
-                      {"생명과학관 5층 523호"}
+                      {"한국생명공학연구원"}
                       <br />
                       {"Epigenome Lab"}
                     </p>
